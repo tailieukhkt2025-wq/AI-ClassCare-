@@ -1,0 +1,6 @@
+{
+  "name": "AI CLASSCARE - Trợ lý số đồng hành cùng giáo viên chủ nhiệm",
+  "description": "Hệ sinh thái EdTech AI hỗ trợ giáo viên chủ nhiệm theo dõi tình hình lớp học, check-in cảm xúc học sinh, gợi ý biện pháp sư phạm, xây dựng Care Plan và phối hợp phụ huynh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
